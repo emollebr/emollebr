@@ -1,5 +1,4 @@
 # Hi, I'm Esther 🦝
-![Sonic](https://tenor.com/en-GB/view/sonic-the-hedgehog-sonic-sprite-dance-dancing-gif-25699134)
 
 Welcome to my GitHub profile! I'm Esther, a passionate software engineering student currently honing my skills at 42 Berlin. Dive into my projects below to see what I've been working on!
 
