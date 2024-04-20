@@ -9,18 +9,18 @@ Welcome to my GitHub profile! I'm Esther, a passionate software engineering stud
 - **Takeaway:** Improved understanding of protocols, data transmission and increased skills in C++
 - **Repository Link:** [WebServ](https://github.com/emollebr/webserv)
 
-### Raycasting Game: "cub3D" 
+### Raycasting Game
 
 - **Description:** Created a raycasting computer game in C with the use of the MiniLibX library.
 - **Takeaway:** Improved my skills in window, color, event handling and practical applications of mathematics.
 - **Repository Link:** [cub3D](https://github.com/emollebr/cub3d)
 
-### Minishell:
+### Minishell
 
 - **Description:** Implemented a simple recreation of the bash shell, providing basic command-line functionality.
 - **Repository Link:** [Minishell](https://github.com/cariestevez/minishell)
 
-### Fractal Explorer: "Fract-ol"
+### Fractal Explorer
 
 - **Description:** Developed a fractal explorer in C, utilizing the minilibx library.
 - **Takeaway:** Window management, event handling, implementing mathematical algorithms.
