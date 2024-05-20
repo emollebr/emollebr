@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Esther, a passionate software engineering stud
 
 ## Projects
 
-## IN PROGRESS: Webserver
+### Webserv
 - **Description:** Coding our own HTTP server in C++, 
 - **Takeaway:** Improved understanding of protocols, data transmission and increased skills in C++
 - **Repository Link:** [WebServ](https://github.com/emollebr/webserv)
