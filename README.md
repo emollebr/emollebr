@@ -33,10 +33,7 @@ Welcome to my GitHub profile! I'm Esther, a software engineering student current
 ![Static Badge](https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker) ![Static Badge](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django) ![Static Badge](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge&logo=virtualbox) ![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql) ![Static Badge](https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visualstudio) ![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
 
 ## Education
-![Static Badge](https://img.shields.io/badge/Berlin-black?style=for-the-badge&logo=42)
-- **School:** 42 Berlin
-- **Degree:** Software Engineering
-- **Expected Graduation:** August 2024
+![Static Badge](https://img.shields.io/badge/Berlin-Software_Engineering-black?style=for-the-badge&logo=42)
 
 ## Let's Connect! 📫
 
