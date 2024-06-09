@@ -1,4 +1,4 @@
-# Hi, I'm Esther 🦝
+# Hi, I'm Esther
 
 Welcome to my GitHub profile! I'm Esther, a software engineering student currently from 42 Berlin. Dive into my projects below to see what I've been working on!
 
