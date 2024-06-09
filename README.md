@@ -1,6 +1,6 @@
 # Hi, I'm Esther 🦝
 
-Welcome to my GitHub profile! I'm Esther, a passionate software engineering student currently honing my skills at 42 Berlin. Dive into my projects below to see what I've been working on!
+Welcome to my GitHub profile! I'm Esther, a software engineering student currently from ![Static Badge](https://img.shields.io/badge/Berlin-black?style=for-the-badge&logo=42). Dive into my projects below to see what I've been working on!
 
 ## Projects
 
@@ -29,7 +29,9 @@ Welcome to my GitHub profile! I'm Esther, a passionate software engineering stud
 
 ## Skills
 
-- **Languages:** C, C++
+- **Languages:** ![Static Badge](https://img.shields.io/badge/C-darkblue?style=for-the-badge&logo=c) ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B) ![Static Badge](https://img.shields.io/badge/python-lightyellow?style=for-the-badge&logo=python) ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+
+- **Tools:** ![Static Badge](https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker) ![Static Badge](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django) ![Static Badge](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge&logo=virtualbox) ![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 
 ## Education
 
