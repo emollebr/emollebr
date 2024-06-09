@@ -26,11 +26,11 @@ Welcome to my GitHub profile! I'm Esther, a software engineering student current
 - **Takeaway:** Window management, event handling, implementing mathematical algorithms.
 - **Repository Link:** [Fract-ol](https://github.com/emollebr/fract-ol)
 
-
-## Skills
+## Languages
 ![Static Badge](https://img.shields.io/badge/C-darkblue?style=for-the-badge&logo=c) ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B) ![Static Badge](https://img.shields.io/badge/python-lightyellow?style=for-the-badge&logo=python) ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 
-![Static Badge](https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker) ![Static Badge](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django) ![Static Badge](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge&logo=virtualbox) ![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
+## Tools
+![Static Badge](https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker) ![Static Badge](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django) ![Static Badge](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge&logo=virtualbox) ![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql) ![Static Badge](https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visualstudio) ![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
 
 ## Education
 ![Static Badge](https://img.shields.io/badge/Berlin-black?style=for-the-badge&logo=42)
