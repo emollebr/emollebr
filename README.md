@@ -4,23 +4,25 @@ Welcome to my GitHub profile! I'm Esther, a software engineering student current
 
 ## Projects
 
-## In progress: Transcendence
-- **Description:** A single page web application for online multiplayer 3D pong game with a microservice architecture backend.
+### In progress: Transcendence
 
 [![Transcendence](https://github-readme-stats.vercel.app/api/pin/?username=theozanchi&repo=42_Berlin_ft_transcendence&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/theozanchi/42_Berlin_ft_transcendence)
 
+- **Description:** A single page web application for online multiplayer 3D pong game with a microservice architecture backend.
+
 ### Webserv
-- **Description:** Coding our own HTTP server in C++, 
-- **Takeaway:** Improved understanding of protocols, data transmission and increased skills in C++
 
 [![WebServ](https://github-readme-stats.vercel.app/api/pin/?username=emollebr&repo=webserv&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emollebr/webserv)
 
+- **Description:** Coding our own HTTP server in C++, 
+- **Takeaway:** Improved understanding of protocols, data transmission and increased skills in C++
+
 ### Raycasting Game
+
+[![cub3D](https://github-readme-stats.vercel.app/api/pin/?username=emollebr&repo=cub3d&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emollebr/cub3d)
 
 - **Description:** Created a raycasting computer game in C with the use of the MiniLibX library.
 - **Takeaway:** Improved my skills in window, color, event handling and practical applications of mathematics.
-
-[![cub3D](https://github-readme-stats.vercel.app/api/pin/?username=emollebr&repo=cub3d&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emollebr/cub3d)
 
 ### Minishell
 
@@ -29,10 +31,10 @@ Welcome to my GitHub profile! I'm Esther, a software engineering student current
 
 ### Fractal Explorer
 
+[![Fract-ol](https://github-readme-stats.vercel.app/api/pin/?username=emollebr&repo=fract-ol&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emollebr/fract-ol)
+
 - **Description:** Developed a fractal explorer in C, utilizing the minilibx library.
 - **Takeaway:** Window management, event handling, implementing mathematical algorithms.
-
-[![Fract-ol](https://github-readme-stats.vercel.app/api/pin/?username=emollebr&repo=fract-ol&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emollebr/fract-ol)
 
 ## Languages
 ![Static Badge](https://img.shields.io/badge/C-darkblue?style=for-the-badge&logo=c) ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B) ![Static Badge](https://img.shields.io/badge/python-lightyellow?style=for-the-badge&logo=python) ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
