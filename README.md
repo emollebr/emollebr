@@ -44,12 +44,11 @@ Welcome to my GitHub profile! I'm Esther, a software engineering student current
 ![Static Badge](https://img.shields.io/badge/Berlin-Software_Engineering-black?style=for-the-badge&logo=42)
 
 ## Let's Connect! 📫
-
-- **Email:** esthers@live.dk
+![Static Badge](https://img.shields.io/badge/Email-esthers%40live.dk-purple?style=for-the-badge&labelColor=orange)
 
 ---
 
-*Feel free to explore my repositories and projects to get a better understanding of my capabilities as a software engineer. If you have any questions or would like to discuss potential opportunities, please don't hesitate to reach out to me via email.
+**Feel free to explore my repositories and projects to get a better understanding of my capabilities as a software engineer. If you have any questions or would like to discuss potential opportunities, please don't hesitate to reach out to me via email.**
 
 Thank you for visiting my profile!
 
