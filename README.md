@@ -1,6 +1,6 @@
 # Hi, I'm Esther
 
-Welcome to my GitHub profile! I'm Esther, I have a diploma in software engineering from 42 Berlin and I'm currently a student of media production. Dive into my projects below to see what I've been working on!
+Welcome to my GitHub profile! I'm Esther, I have a diploma in software engineering from 42 Berlin and I'm currently a student of media production in Copenhagen. Dive into my projects below to see what I've been working on!
 
 ## Projects
 
