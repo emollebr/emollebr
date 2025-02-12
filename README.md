@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Esther, a software engineering student current
 
 ## Projects
 
-### In progress: Transcendence
+### Transcendence
 
 [![Transcendence](https://github-readme-stats.vercel.app/api/pin/?username=theozanchi&repo=42_Berlin_ft_transcendence&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/theozanchi/42_Berlin_ft_transcendence)
 
